@@ -21,4 +21,3 @@ class LoginPage{
 }
 
 export default LoginPage
-i
